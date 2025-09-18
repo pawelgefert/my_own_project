@@ -9,6 +9,6 @@ with col1:
     st.image(config.IMAGES_DIR +f"/logo.png")   
 with col2:
     st.title("O Mnie")
-    st.write("Amator programista i pasjonat technologii. W wolnym czasie tworzę aplikacje webowe i eksploruję nowe technologie.")
+    st.write("Programista amator i pasjonat technologii. W wolnym czasie tworzę aplikacje webowe i eksploruję nowe technologie.")
 
    

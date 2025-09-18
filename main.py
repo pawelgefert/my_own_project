@@ -3,6 +3,7 @@ import config
 from PIL import Image
 
 
+
 # --- PAGE SETUP ---
 
 #logo = Image.open("/Users/pawel/Python/my_own_project/images/logo.png")
